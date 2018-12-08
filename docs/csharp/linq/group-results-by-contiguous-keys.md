@@ -16,12 +16,12 @@ ms.locfileid: "47193000"
 
 |键|“值”|
 |---------|-----------|
-|包含当前请求的 URL 的|We|
-|包含当前请求的 URL 的|think|
-|包含当前请求的 URL 的|that|
+|A|We|
+|A|think|
+|A|that|
 |B|Linq|
 |C|is|
-|包含当前请求的 URL 的|really|
+|A|really|
 |B|cool|
 |B|!|
 
